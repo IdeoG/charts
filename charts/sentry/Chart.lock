@@ -16,12 +16,12 @@ dependencies:
   version: 11.4.11
 - name: rabbitmq
   repository: oci://registry-1.docker.io/bitnamicharts
-  version: 11.16.2
+  version: 15.2.3
 - name: postgresql
   repository: oci://registry-1.docker.io/bitnamicharts
   version: 12.5.1
 - name: nginx
   repository: oci://registry-1.docker.io/bitnamicharts
   version: 18.2.5
-digest: sha256:7cf8aeed33089ff05f42054b5a49310f9d38d01eab349cc27f8c0df57eb91d9d
-generated: "2025-01-06T01:36:52.739851807Z"
+digest: sha256:c8bfd31ec72fa70920c14a27866c08a0ad03836fd7b692e05f430c02fed16cf7
+generated: "2025-01-15T14:52:28.642108279Z"
