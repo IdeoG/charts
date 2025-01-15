@@ -19,9 +19,9 @@ dependencies:
   version: 11.16.2
 - name: postgresql
   repository: oci://registry-1.docker.io/bitnamicharts
-  version: 12.5.1
+  version: 16.4.3
 - name: nginx
   repository: oci://registry-1.docker.io/bitnamicharts
   version: 18.2.5
-digest: sha256:7cf8aeed33089ff05f42054b5a49310f9d38d01eab349cc27f8c0df57eb91d9d
-generated: "2025-01-06T01:36:52.739851807Z"
+digest: sha256:eb1459b16686aec312519ec5eb8c4fe95afd2866216d7aa4d45820fd3f9571a2
+generated: "2025-01-15T14:51:19.374488917Z"
